@@ -1,0 +1,12 @@
+.gradle
+.cache
+build
+out
+.settings
+.project
+.classpath
+.vscode
+.idea
+yarn-error.log
+node_modules
+target
